@@ -1,0 +1,3 @@
+[submodule "sch"]
+	path = sch
+	url = https://github.com/4b11b4/s.git
