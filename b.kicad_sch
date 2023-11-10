@@ -8,6 +8,23 @@
   )
 
 
+  (sheet (at 156.21 95.885) (size 24.765 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6b195593-9816-40e7-97c0-c6e7d22a4e06)
+    (property "Sheetname" "r" (at 156.21 95.1734 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "./sch/r.kicad_sch" (at 156.21 109.1696 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "b"
+        (path "/d97b04af-f940-4b37-9b46-3257568904dc" (page "2"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )
